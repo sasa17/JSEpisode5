@@ -29,7 +29,6 @@ class Point {
     return new Point(x, y);
   };
 }
-
 /**********************************************************
  * Wallet: keeps track of money
  *
